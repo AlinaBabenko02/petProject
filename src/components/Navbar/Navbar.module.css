@@ -1,0 +1,34 @@
+.nav {
+  grid-area: n;
+  background-color: #9ac5f0;
+  padding: 10px;
+}
+
+.item  a{
+  color:#11265b;
+  font-weight: bold;
+}
+
+.item a.active{
+  color: white;
+} 
+.friends {
+margin-top: 50px;
+}
+
+.friends span{
+  font-size: 70%;
+  text-align: top;
+  float: left;
+  padding: 9px;
+}
+
+.friends img {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  margin-left: 8px;
+}
+.friends figcaption {
+  text-align: center;
+}
